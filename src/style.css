@@ -3,33 +3,35 @@ body {
   background-color: green;
 }
 
-.card {
+/* #card {
+  background-color: white;
   display: flex;
   justify-content: center;
   width: 250px;
   height: 375px;
+  border-radius: 10px;
   margin: auto;
   margin-top: 100px;
-}
+} */
 
-.card .pintaUp {
+/* #card #upper {
   display: flex;
   font-size: 5em;
   color: red;
   margin-left: 10px;
 }
 
-.card .pintaDown {
+#card #lower {
   display: flex;
   align-self: end;
   font-size: 5em;
   color: red;
   margin-right: 10px;
-}
+} */
 
-.card .valor {
+/* #card #value {
   font-size: 6em;
   color: red;
   margin: 0;
   align-self: center;
-}
+} */
